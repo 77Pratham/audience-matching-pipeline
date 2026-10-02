@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+venv/
+data/raw/
+data/*.parquet
+clusterer.pkl
+umap_reducer.pkl
+behavioral_scaler.pkl
+embeddings_cache.npy
+.pytest_cache/
+*.egg-info/
+.idea/
+.vscode/
